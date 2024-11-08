@@ -1,5 +1,5 @@
 # STM32F412-Discovery
-STM32F412 Discovery C &amp; Circuitpython
+STM32F412 Discovery &amp; Circuitpython
 
 ![Untitled (5)](https://github.com/user-attachments/assets/64650ad0-6fd7-45e0-ba66-5ac177d15f4b)
 
